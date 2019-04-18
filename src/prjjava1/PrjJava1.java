@@ -18,6 +18,7 @@ public class PrjJava1 {
         // TODO code application logic here
         System.out.println(" Hello World");
         System.out.println("    teste 2  ");
+        System.out.println("Alterado para novo commit");
     }
     
 }
